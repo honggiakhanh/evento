@@ -12,7 +12,7 @@ const EventCard = ({ event }: Props) => {
       className="flex-1 h-[380px] basis-80 max-w-[500px]"
       href={`/event/${event.slug}`}
     >
-      <section className="w-full h-full relative flex flex-col  bg-white/[3%] rounded-xl overflow-hidden hover:scale-110 active:scale-105">
+      <section className="w-full h-full relative flex flex-col  bg-white/[3%] rounded-xl overflow-hidden state-effects">
         <Image
           src={event.imageUrl}
           alt={event.name}
