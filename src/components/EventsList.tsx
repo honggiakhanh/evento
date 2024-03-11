@@ -1,5 +1,6 @@
 import { EventoEvent } from "@/lib/types";
 import React from "react";
+import EventCard from "./EventCard";
 
 type Props = {
   events: EventoEvent[];
@@ -7,9 +8,9 @@ type Props = {
 
 const EventsList = ({ events }: Props) => {
   return (
-    <section>
+    <section className="flex flex-wrap max-w-[1100px] px-5 gap-10 justify-center">
       {events.map((event) => (
-        <section key={event.id}>{event.name}</section>
+        <EventCard key={event.id} event={event} />
       ))}
     </section>
   );
