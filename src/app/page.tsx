@@ -15,8 +15,8 @@ export default function Home() {
       <section className="mt-4 flex gap-x-4 text-sm text-white/50">
         <p>Popular:</p>
         <div className="space-x-2 font-semibold">
-          <Link href="events/austin">Austin</Link>
-          <Link href="events/seattle">Seattle</Link>
+          <Link href="events/helsinki">Helsinki</Link>
+          <Link href="events/vaasa">Vaasa</Link>
         </div>
       </section>
     </main>
