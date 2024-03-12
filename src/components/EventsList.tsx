@@ -5,10 +5,10 @@ import PaginationControl from "./PaginationControl";
 
 type Props = {
   city: string;
-  page: number;
+  page?: number;
 };
 
-const EventsList = async ({ city, page }: Props) => {
+const EventsList = async ({ city, page = 1 }: Props) => {
   const { events, totalCount } = await getEvents(city, page);
 
   const previousPath = page > 1 ? `/events/${city}?page=${page - 1}` : "";
