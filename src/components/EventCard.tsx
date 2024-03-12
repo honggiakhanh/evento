@@ -27,7 +27,9 @@ const EventCard = ({ event }: Props) => {
       className="flex-1 h-[380px] basis-80 max-w-[500px]"
       href={`/event/${event.slug}`}
       style={{
+        //@ts-ignore
         scale: scaleProgess,
+        //@ts-ignore
         opacity: opacityProgess,
       }}
       initial={{
