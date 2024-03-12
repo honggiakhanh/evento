@@ -291,8 +291,8 @@ const events = [
   },
   {
     id: 23,
-    name: "Vaasa Culinary Masterclass",
-    slug: "vaasa-culinary-masterclass",
+    name: "Vaasa Culinary Experience",
+    slug: "vaasa-culinary-experience",
     city: "Vaasa",
     location: "Vaasa Epicurean Institute",
     date: "2024-12-02T00:00:00.000Z",
