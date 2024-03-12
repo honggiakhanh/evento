@@ -304,19 +304,6 @@ const events = [
   },
   {
     id: 24,
-    name: "Helsinki Film Buffs Symposium",
-    slug: "helsinki-film-buffs-symposium",
-    city: "Helsinki",
-    location: "Helsinki Film Institute",
-    date: "2024-11-08T00:00:00.000Z",
-    organizerName: "Cinema Society",
-    imageUrl:
-      "https://images.unsplash.com/photo-1642178225043-f299072af862?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=100",
-    description:
-      "A gathering for film enthusiasts! Screen classic movies, engage in discussions with filmmakers, and gain insights into the world of cinema.",
-  },
-  {
-    id: 25,
     name: "Turku Literary Salon",
     slug: "turku-literary-salon",
     city: "Turku",
@@ -329,7 +316,7 @@ const events = [
       "Celebrate the written word at this literary gathering. Listen to readings by acclaimed authors, participate in book discussions, and embrace the magic of storytelling.",
   },
   {
-    id: 26,
+    id: 25,
     name: "Helsinki Wellness Expo",
     slug: "helsinki-wellness-expo",
     city: "Helsinki",
@@ -340,6 +327,52 @@ const events = [
       "https://images.unsplash.com/photo-1642178225043-f299072af862?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=100",
     description:
       "Immerse yourself in the world of fitness and well-being. Attend fitness classes, learn about nutrition, and explore holistic approaches to health.",
+  },
+  {
+    id: 26,
+    name: "Helsinki Boardgame Bonanza",
+    slug: "helsinki-boardgame-bonanza",
+    city: "Helsinki",
+    location: "Helsinki Boardgame Cafe",
+    date: "2024-03-25T00:00:00.000Z",
+    organizerName: "Game Masters Guild",
+    imageUrl: "IMAGE_URL_HERE",
+    description: "Dive into a day of boardgame excitement...",
+  },
+  {
+    id: 27,
+    name: "Strategic Showdown Helsinki",
+    slug: "strategic-showdown-helsinki",
+    city: "Helsinki",
+    location: "Helsinki Convention Center",
+    date: "2024-04-10T00:00:00.000Z",
+    organizerName: "Tabletop Tactics League",
+    imageUrl: "IMAGE_URL_HERE",
+    description:
+      "Prepare for a strategic showdown in the heart of Helsinki!...",
+  },
+  {
+    id: 28,
+    name: "Helsinki Family Boardgame Day",
+    slug: "helsinki-family-boardgame-day",
+    city: "Helsinki",
+    location: "Helsinki City Park",
+    date: "2024-05-05T00:00:00.000Z",
+    organizerName: "Family Fun Events",
+    imageUrl: "IMAGE_URL_HERE",
+    description: "Gather your family and join us for a day of boardgame fun...",
+  },
+  {
+    id: 29,
+    name: "EuroGame Extravaganza Helsinki",
+    slug: "eurogame-extravaganza-helsinki",
+    city: "Helsinki",
+    location: "Helsinki EuroGame Lounge",
+    date: "2024-06-15T00:00:00.000Z",
+    organizerName: "EuroGame Enthusiasts Society",
+    imageUrl: "IMAGE_URL_HERE",
+    description:
+      "Immerse yourself in the world of EuroGames at the Helsinki EuroGame Lounge...",
   },
 ];
 
