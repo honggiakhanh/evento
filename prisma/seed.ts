@@ -304,32 +304,6 @@ const events = [
   },
   {
     id: 24,
-    name: "Turku Literary Salon",
-    slug: "turku-literary-salon",
-    city: "Turku",
-    location: "Turku & Co. Bookstore",
-    date: "2024-12-15T00:00:00.000Z",
-    organizerName: "Words Society",
-    imageUrl:
-      "https://images.unsplash.com/photo-1642178225043-f299072af862?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=100",
-    description:
-      "Celebrate the written word at this literary gathering. Listen to readings by acclaimed authors, participate in book discussions, and embrace the magic of storytelling.",
-  },
-  {
-    id: 25,
-    name: "Helsinki Wellness Expo",
-    slug: "helsinki-wellness-expo",
-    city: "Helsinki",
-    location: "Helsinki Convention Center",
-    date: "2024-11-30T00:00:00.000Z",
-    organizerName: "Wellness Warriors Inc.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1642178225043-f299072af862?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=100",
-    description:
-      "Immerse yourself in the world of fitness and well-being. Attend fitness classes, learn about nutrition, and explore holistic approaches to health.",
-  },
-  {
-    id: 26,
     name: "Helsinki Boardgame Bonanza",
     slug: "helsinki-boardgame-bonanza",
     city: "Helsinki",
@@ -340,7 +314,7 @@ const events = [
     description: "Dive into a day of boardgame excitement...",
   },
   {
-    id: 27,
+    id: 25,
     name: "Strategic Showdown Helsinki",
     slug: "strategic-showdown-helsinki",
     city: "Helsinki",
@@ -352,7 +326,7 @@ const events = [
       "Prepare for a strategic showdown in the heart of Helsinki!...",
   },
   {
-    id: 28,
+    id: 26,
     name: "Helsinki Family Boardgame Day",
     slug: "helsinki-family-boardgame-day",
     city: "Helsinki",
@@ -363,7 +337,7 @@ const events = [
     description: "Gather your family and join us for a day of boardgame fun...",
   },
   {
-    id: 29,
+    id: 27,
     name: "EuroGame Extravaganza Helsinki",
     slug: "eurogame-extravaganza-helsinki",
     city: "Helsinki",
