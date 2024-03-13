@@ -310,7 +310,8 @@ const events = [
     location: "Helsinki Boardgame Cafe",
     date: "2024-03-25T00:00:00.000Z",
     organizerName: "Game Masters Guild",
-    imageUrl: "IMAGE_URL_HERE",
+    imageUrl:
+      "https://images.unsplash.com/photo-1642178225043-f299072af862?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=100",
     description: "Dive into a day of boardgame excitement...",
   },
   {
@@ -321,7 +322,8 @@ const events = [
     location: "Helsinki Convention Center",
     date: "2024-04-10T00:00:00.000Z",
     organizerName: "Tabletop Tactics League",
-    imageUrl: "IMAGE_URL_HERE",
+    imageUrl:
+      "https://images.unsplash.com/photo-1642178225043-f299072af862?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=100",
     description:
       "Prepare for a strategic showdown in the heart of Helsinki!...",
   },
@@ -333,7 +335,8 @@ const events = [
     location: "Helsinki City Park",
     date: "2024-05-05T00:00:00.000Z",
     organizerName: "Family Fun Events",
-    imageUrl: "IMAGE_URL_HERE",
+    imageUrl:
+      "https://images.unsplash.com/photo-1642178225043-f299072af862?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=100",
     description: "Gather your family and join us for a day of boardgame fun...",
   },
   {
@@ -344,7 +347,8 @@ const events = [
     location: "Helsinki EuroGame Lounge",
     date: "2024-06-15T00:00:00.000Z",
     organizerName: "EuroGame Enthusiasts Society",
-    imageUrl: "IMAGE_URL_HERE",
+    imageUrl:
+      "https://images.unsplash.com/photo-1642178225043-f299072af862?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=100",
     description:
       "Immerse yourself in the world of EuroGames at the Helsinki EuroGame Lounge...",
   },
